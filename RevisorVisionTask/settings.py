@@ -96,8 +96,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'RevisorVisionTaskDB', 
-        'USER': 'postgres', 
-        'PASSWORD': '1',
+        'USER': 'poastgres', 
+        'PASSWORD': '',
         'HOST': '127.0.0.1', 
         'PORT': '5432',
     }
