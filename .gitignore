@@ -1,3 +1,2 @@
 venv
-answer.txt
-.gitignore
+__pycache__
